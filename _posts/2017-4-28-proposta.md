@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proposta"
-date:   2017-04-28 00:00:00 +0200
+date:   2017-02-31 00:00:00 +0200
 ---
 
 ## Aluno: Pedro Marcondes
