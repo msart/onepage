@@ -12,7 +12,7 @@ date:   2017-02-31 00:00:00 +0200
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Buscamos alternativas para refinar algoritmos usados atualmente, como o uso de quatérnions para representação das rotações, a fim de evitar problemas e limitações relacionados com as representações por eixos ou Euler(eixos constantemente variando e “Gimbal Lock”)[1], técnicas como o método de gradiente descendente[2] e Gauss-Newton[2] que quando aplicadas a este problema conseguiram reduzir o custo computacional, como em [4][6].
 
 ## Motivação
- * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O “tracking” de movimentos possui uma área muito vasta de aplicações, se estendendo desde a medicina, no uso de braços robóticos para a execução de cirurgias, até o cinema, onde se usa o mapeamento do movimento de atores para criação de efeitos especiais, animações, etc. Nesse trabalho em especial a motivação final é artística, aumentar o instrumento.
+ * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O “tracking” de movimentos possui uma área muito vasta de aplicações, se estendendo desde a medicina, no uso de braços robóticos para a execução de cirurgias, até o cinema, onde se usa o mapeamento do movimento de atores para criação de efeitos especiais, animações, etc. Neste trabalho em especial a motivação final é artística, aumentar o instrumento.
 
 ## Objetivos
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O primeiro objetivo é conseguir estimar o ângulo entre o braço e antebraço de um músico com o uso de sensores. Para esse trabalho serão utilizados acelerômetros e giroscópios.
