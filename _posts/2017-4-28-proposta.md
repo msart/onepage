@@ -15,7 +15,7 @@ date:   2017-02-31 00:00:00 +0200
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O “tracking” de movimentos possui uma área muito vasta de aplicações, se estendendo desde a medicina, no uso de braços robóticos para a execução de cirurgias, até o cinema, onde se usa o mapeamento do movimento de atores para criação de efeitos especiais, animações, etc. Neste trabalho em especial a motivação final é artística, aumentar o instrumento.
 
 ## Objetivos
- * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O primeiro objetivo é conseguir estimar o ângulo entre o braço e antebraço de um músico com o uso de sensores. Para esse trabalho serão utilizados acelerômetros e giroscópios.
+ * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O primeiro objetivo é conseguir estimar o ângulo entre o braço e antebraço de um músico com o uso de sensores. Para esse trabalho serão utilizados acelerômetros, giroscópios e magnetômetros.
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Depois pretendemos aplicar essa estimação no baixo elétrico afim de usar a angulação da articulação mencionada como controlador de efeito no som produzido pelo instrumento, desenvolvendo assim um baixo aumentado.
 
 ## Atividades
