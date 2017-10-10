@@ -5,9 +5,9 @@
     <description>Projeto TCC IME-USP 2017 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 May 2017 10:30:12 -0300</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 10:30:12 -0300</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Tue, 10 Oct 2017 15:48:24 -0300</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2017 15:48:24 -0300</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
     
       <item>
         <title>Proposta</title>
@@ -142,6 +142,11 @@
   &lt;li&gt;[5]DUMITRU, Nicolae; GRECU, Luminita; GRECU, Valentin. &lt;em&gt;Analysis of Human Arm Joints and Extension of the Study to Robot Manipulator&lt;/em&gt;. Proceedings of the International MultiConferennce of Engineers and Compute Scientists 2009 Vol 2.&lt;/li&gt;
   &lt;li&gt;[6]MARINS, João Luís, et al. &lt;em&gt;An extended Kalman filter for quaternion-based orientation estimation using MARG sensors&lt;/em&gt;. Intelligent Robots and Systems, 2001. Proceedings. 2001 IEEE/RSJ International Conference on. Vol. 4. IEEE, 2001.&lt;/li&gt;
   &lt;li&gt;[7]WELCH, Greg; BISHOP, Gary. An introduction to the Kalman filter. 1995.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/msart/Joint-angles-estimation-with-9dof-sensors&quot;&gt;Repositório Github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>

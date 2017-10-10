@@ -43,5 +43,5 @@ date:   2017-02-31 00:00:00 +0200
 * [7]WELCH, Greg; BISHOP, Gary. An introduction to the Kalman filter. 1995.
 
 ## Source Code
-* https://github.com/msart/Joint-angles-estimation-with-9dof-sensors
+* [Repositório Github](https://github.com/msart/Joint-angles-estimation-with-9dof-sensors)
 

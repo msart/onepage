@@ -4,7 +4,7 @@
  <title>Pedro Marcondes</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2017-05-04T10:30:12-03:00</updated>
+ <updated>2017-10-10T15:48:24-03:00</updated>
  <id></id>
  <author>
    <name>Pedro Marcondes</name>
@@ -148,6 +148,11 @@
   &lt;li&gt;[5]DUMITRU, Nicolae; GRECU, Luminita; GRECU, Valentin. &lt;em&gt;Analysis of Human Arm Joints and Extension of the Study to Robot Manipulator&lt;/em&gt;. Proceedings of the International MultiConferennce of Engineers and Compute Scientists 2009 Vol 2.&lt;/li&gt;
   &lt;li&gt;[6]MARINS, João Luís, et al. &lt;em&gt;An extended Kalman filter for quaternion-based orientation estimation using MARG sensors&lt;/em&gt;. Intelligent Robots and Systems, 2001. Proceedings. 2001 IEEE/RSJ International Conference on. Vol. 4. IEEE, 2001.&lt;/li&gt;
   &lt;li&gt;[7]WELCH, Greg; BISHOP, Gary. An introduction to the Kalman filter. 1995.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/msart/Joint-angles-estimation-with-9dof-sensors&quot;&gt;Repositório Github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
