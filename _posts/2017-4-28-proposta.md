@@ -42,3 +42,6 @@ date:   2017-02-31 00:00:00 +0200
 * [6]MARINS, João Luís, et al. _An extended Kalman filter for quaternion-based orientation estimation using MARG sensors_. Intelligent Robots and Systems, 2001. Proceedings. 2001 IEEE/RSJ International Conference on. Vol. 4. IEEE, 2001.
 * [7]WELCH, Greg; BISHOP, Gary. An introduction to the Kalman filter. 1995.
 
+## Source Code
+* https://github.com/msart/Joint-angles-estimation-with-9dof-sensors
+
