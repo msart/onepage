@@ -5,8 +5,8 @@
     <description>Projeto TCC IME-USP 2017 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Oct 2017 12:15:19 -0300</pubDate>
-    <lastBuildDate>Wed, 11 Oct 2017 12:15:19 -0300</lastBuildDate>
+    <pubDate>Sun, 26 Nov 2017 18:29:59 -0200</pubDate>
+    <lastBuildDate>Sun, 26 Nov 2017 18:29:59 -0200</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
@@ -152,6 +152,25 @@
 </description>
         <link></link>
         <guid isPermaLink="true">/proposta</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Monografia e parte subjetiva</title>
+        <description>&lt;h2 id=&quot;mongrafia&quot;&gt;Mongrafia&lt;/h2&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;h2 id=&quot;parte-subjetiva&quot;&gt;Parte Subjetiva&lt;/h2&gt;
+&lt;p&gt;*&lt;a href=&quot;/home/bcc/msart/www/parte-subjetiva.pdf&quot;&gt;Parte Subjetiva&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/msart/Joint-angles-estimation-with-9dof-sensors&quot;&gt;Repositório Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <link></link>
+        <guid isPermaLink="true">/texto</guid>
         
         
       </item>

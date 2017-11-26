@@ -4,7 +4,7 @@
  <title>Pedro Marcondes</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2017-10-11T12:15:19-03:00</updated>
+ <updated>2017-11-26T18:29:59-02:00</updated>
  <id></id>
  <author>
    <name>Pedro Marcondes</name>
@@ -149,6 +149,24 @@
   &lt;li&gt;[6]MARINS, João Luís, et al. &lt;em&gt;An extended Kalman filter for quaternion-based orientation estimation using MARG sensors&lt;/em&gt;. Intelligent Robots and Systems, 2001. Proceedings. 2001 IEEE/RSJ International Conference on. Vol. 4. IEEE, 2001.&lt;/li&gt;
   &lt;li&gt;[7]WELCH, Greg; BISHOP, Gary. An introduction to the Kalman filter. 1995.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/msart/Joint-angles-estimation-with-9dof-sensors&quot;&gt;Repositório Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Monografia e parte subjetiva</title>
+   <link href="#2017-03-02-19"/>
+   <updated>2017-03-02T19:00:00-03:00</updated>
+   <id>/texto</id>
+   <content type="html">&lt;h2 id=&quot;mongrafia&quot;&gt;Mongrafia&lt;/h2&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;h2 id=&quot;parte-subjetiva&quot;&gt;Parte Subjetiva&lt;/h2&gt;
+&lt;p&gt;*&lt;a href=&quot;/home/bcc/msart/www/parte-subjetiva.pdf&quot;&gt;Parte Subjetiva&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
 &lt;ul&gt;
