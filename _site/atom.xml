@@ -4,7 +4,7 @@
  <title>Pedro Marcondes</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2017-11-26T18:35:23-02:00</updated>
+ <updated>2017-11-26T18:40:54-02:00</updated>
  <id></id>
  <author>
    <name>Pedro Marcondes</name>
@@ -163,9 +163,8 @@
    <link href="#2017-03-02-19"/>
    <updated>2017-03-02T19:00:00-03:00</updated>
    <id>/texto</id>
-   <content type="html">&lt;h2 id=&quot;mongrafia&quot;&gt;Mongrafia&lt;/h2&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;h2 id=&quot;parte-subjetiva&quot;&gt;Parte Subjetiva&lt;/h2&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.linux.ime.usp.br/~msart/mac0499/monografia.pdf&quot;&gt;Monografia&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://www.linux.ime.usp.br/~msart/mac0499/parte-subjetiva.pdf&quot;&gt;Parte Subjetiva&lt;/a&gt;&lt;/p&gt;
 
 </content>
