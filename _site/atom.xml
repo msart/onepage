@@ -4,7 +4,7 @@
  <title>Pedro Marcondes</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2017-12-03T18:18:51-02:00</updated>
+ <updated>2017-12-17T12:27:09-05:00</updated>
  <id></id>
  <author>
    <name>Pedro Marcondes</name>
@@ -14,8 +14,8 @@
  
  <entry>
    <title>Proposta</title>
-   <link href="#2017-03-02-19"/>
-   <updated>2017-03-02T19:00:00-03:00</updated>
+   <link href="#2017-03-02-17"/>
+   <updated>2017-03-02T17:00:00-05:00</updated>
    <id>/proposta</id>
    <content type="html">&lt;h2 id=&quot;aluno-pedro-marcondes&quot;&gt;Aluno: Pedro Marcondes&lt;/h2&gt;
 &lt;h2 id=&quot;orientadores-carolina-brum-marcelo-queiroz-e-antonio-deusany-de-carvalho-junior&quot;&gt;Orientadores: Carolina Brum, Marcelo Queiroz e Antonio Deusany de Carvalho Junior&lt;/h2&gt;
@@ -160,8 +160,8 @@
  
  <entry>
    <title>Monografia e parte subjetiva</title>
-   <link href="#2017-03-02-19"/>
-   <updated>2017-03-02T19:00:00-03:00</updated>
+   <link href="#2017-03-02-17"/>
+   <updated>2017-03-02T17:00:00-05:00</updated>
    <id>/texto</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.linux.ime.usp.br/~msart/mac0499/monografia.pdf&quot;&gt;Monografia&lt;/a&gt;&lt;/p&gt;
 
